@@ -1,0 +1,19 @@
+.bottoni {
+    text-align: center;
+    margin-top: 40px;
+    background-color: lightgrey;
+    height: 100px;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-left: 100px;
+    padding-bottom: 200px;
+    padding-right: 100px;
+}
+button{
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: 15px;
+    
+}
+
+
